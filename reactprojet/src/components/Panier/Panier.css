@@ -1,0 +1,7 @@
+.panierDiv {
+    display: flex;
+    flex-direction: row;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+

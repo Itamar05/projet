@@ -1,0 +1,119 @@
+.singleProductCss {
+      
+    width: 500px;
+    height: 500px;
+
+  }
+
+  .container{
+      width: 1240px;
+      margin-left: 5%;
+      margin-right: 5%;
+  }
+
+
+  .singleProductPage {
+
+     display: flex;
+
+   
+  }
+ 
+
+  .spGen {
+
+    display: flex;
+    flex: flex-start;
+    position: static;
+  }
+
+  .reactAnglePage {
+
+    margin-top: 40px;
+    width: 500px;
+    display: grid;
+    grid-template-columns: 55% 55%;
+    grid-auto-rows: 310px;
+  }
+  
+  .reactAnglePage img {
+
+    border: 5px solid white;
+    
+  }
+
+  .texte {
+
+   margin-top : 40px ;
+   margin-left : 10% ;
+   /* text-align: right; */
+   width: 550px;
+
+  }
+
+  .texte span {
+      font-size: 30px;
+      
+}
+
+  .texte p {
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 20px;
+
+}
+
+ button {
+
+    width: 150px;
+    margin-top: 20px;
+    text-align: center;
+    color : black;
+    
+
+ }
+
+ .texte ul {
+
+    margin-left: 3%;
+    text-align: left;
+
+ }
+
+ #texteLivraison {
+
+    margin-top: 20px;
+    margin-left: 3%;
+    text-align: left;
+    
+ }
+
+ #lrg {
+
+    width: 400px;
+    margin-right: 20px;
+    
+ }
+
+ .btn {
+
+    /* text-align: center;
+    font-size: 20px;
+    margin-left: 80px; */
+    border: solid  rgb(197, 194, 194) ;
+    border-width: 1px ;
+    
+
+
+ }
+ .artH {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .qzd1 div {
+     color: black;
+     display: flex;
+     flex-direction: column;
+ }
+ 
